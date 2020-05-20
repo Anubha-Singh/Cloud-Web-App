@@ -1,0 +1,5 @@
+---
+applications:
+ - name: AnubhaBit-computer-vision-app
+   random-random: true
+   memory: 128M
